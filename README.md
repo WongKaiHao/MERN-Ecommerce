@@ -1,7 +1,7 @@
 # MERN-Ecommerce
 
 ## Tech Stack
-- braintree
+- Braintree 
 - MongoDB
 - ExpressJS
 - React
