@@ -1,5 +1,4 @@
 # MERN-Ecommerce
- [TOC]
 
 ## Tech Stack
 - braintree
